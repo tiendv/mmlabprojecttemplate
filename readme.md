@@ -6,7 +6,7 @@ Written by:<br>
 Input: video file need to split.<br>
 Output: image file (frame) of input video.<br>
 <h3>Installing</h3>
-Requirements:<br>
+<h4>Requirements</h4>
     python >= 3.5<br>
     opencv >= 3.3<br>
 
