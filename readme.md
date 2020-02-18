@@ -1,11 +1,11 @@
-<h5>Video Spliter</h5>  
-<h7>Introduction</h7>  
+<h1>Video Spliter</h1>  
+<h3>Introduction</h3>  
 This is a template of python video spliter project.  
 Written by:  
-<h9>Input/Output:</h9>
+<h4>Input/Output:</h4>
 Input: video file need to split.
 Output: image file (frame) of input video.
-<h7>Installing</h7>  
+<h3>Installing</h3>  
 Requirements:  
     python >= 3.5  
     opencv >= 3.3  
@@ -17,5 +17,5 @@ Run
     python3 main.py  
 
 
-<h7>Contributing</h7>
-<h7>Links</h7>
+<h4>Contributing</h4>
+<h4>Links</h4>
