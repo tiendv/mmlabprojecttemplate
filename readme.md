@@ -11,7 +11,7 @@ Output: image file (frame) of input video.<br>
     opencv >= 3.3<br>
 
 <h4>Install</h4>
-    Run this command to install requirements<br>
+    Run this command to install requirements:<br>
     pip3 install -r requirements.txt<br>
 <h4>Config</h4>
     Change system config in ./config/main.cfg to suit your enviroments.<br>
