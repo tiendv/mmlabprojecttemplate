@@ -1,5 +1,6 @@
 #-------------------------------------
 #Video Spliter
+#Load config module
 #Copyright (c) 2020 MMLAB
 #Written by
 #-------------------------------------

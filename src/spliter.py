@@ -1,5 +1,6 @@
 #-------------------------------------
 #Video Spliter
+#Spliter engine module
 #Copyright (c) 2020 MMLAB
 #Written by
 #-------------------------------------
