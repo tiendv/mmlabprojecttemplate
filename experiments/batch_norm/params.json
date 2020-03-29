@@ -1,0 +1,4 @@
+{
+    'categories': ['cat', 'dog'],
+    filter_num: 255,
+}
